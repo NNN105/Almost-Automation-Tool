@@ -1,0 +1,3 @@
+pip install pywinauto
+pip install pytesseract
+pip install Pillow
